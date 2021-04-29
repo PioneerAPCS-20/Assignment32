@@ -52,12 +52,15 @@ public class Polygon
 	/**
 	 * name: getSumOfAngles
 	 * return type: int
-	 * @return sum of all angles (num_sides - 2 * 180)
+	 * @return sum of all angles ( (num_sides - 2) * 180)
 	 */
 
 	
 	
-	
+	public double getArea()
+	{
+		return 0.0;
+	}
 	
 	
 	
