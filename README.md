@@ -2,6 +2,8 @@
 
 For this assignment you will be creating superclasses and subclasses involving different polygons. One of the classes will be a subclass of a subclass.
 
+Note: the `Triangle` class is included in the starter code folder as a completed example. It is just for reference.
+
 ### Polygon Class
 
 Fill in the missing parts of the class `Polygon`.
